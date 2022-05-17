@@ -2,8 +2,8 @@
 
 This example demos a basic host application loading remote component.
 
-- `app1` is the host application.
-- `app2` standalone application which exposes `Button` component.
+- `smartschool` is the host application.
+- `smartchat` standalone application which exposes `Button` component.
 
 # Running Demo
 
